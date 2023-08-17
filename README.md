@@ -19,6 +19,6 @@ Risk-Reward Optimization: We prioritize effective risk management by targeting a
 Proof of Concept:
 At this stage, we have successfully developed a prototype showcasing technical analysis. Through historical data analysis, it has demonstrated its capability to identify patterns and trends that align with actual market movements. This proof of concept validates the potential of the AI-driven approach.
 
-Future Directions:
-As it is continues to be refined, sentiment and fundamental analysis components are integrated, further enriching the insights provided to users. The end goal is to deliver a user-friendly, comprehensive platform that empowers investors to confidently navigate financial markets.
+Future Direction:
+As entiment and fundamental analysis components are integrated, further enriching the insights provided to users. The end goal is to deliver a user-friendly, comprehensive platform that empowers investors to confidently navigate financial markets.
 
