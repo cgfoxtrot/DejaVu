@@ -1,4 +1,4 @@
-# DejaVu Project Overview: Transforming Investment Strategy through AI and Machine Learning Financial Analysis
+# DejaVu Overview: Transforming Investment Strategy through AI and Machine Learning Financial Analysis
 
 In the dynamic realm of financial markets, the ability to make informed investment choices is paramount. Our ongoing project is dedicated to revolutionizing investment decisions in stock markets, indices, forex, and commodities. By seamlessly integrating artificial intelligence and machine learning, we present a comprehensive solution that merges technical, qualitative, and quantitative analyses to provide a holistic understanding of diverse financial securities.
 
